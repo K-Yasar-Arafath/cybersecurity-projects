@@ -1,0 +1,31 @@
+Network Traffic Monitoring using Bettercap
+
+Objective:
+Monitored and analyzed live network traffic to understand packet flow and detect potential risks.
+
+Tools Used:
+Bettercap, Kali Linux
+
+Key Activities:
+
+Enabled network sniffing
+
+Captured HTTP traffic
+
+Performed ARP discovery
+
+Analysed real-time packets
+
+Observed DNS and TCP communications
+
+Skills Demonstrated:
+
+Packet analysis
+
+Network monitoring
+
+ARP scanning
+
+Traffic inspection
+
+Reconnaissance fundamentals
