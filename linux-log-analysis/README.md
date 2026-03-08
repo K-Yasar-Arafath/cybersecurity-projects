@@ -17,3 +17,6 @@ Learned how to investigate authentication logs and identify indicators of suspic
 
 ## Outcome
 Detected multiple failed login attempts, which could indicate a brute-force attack.
+## Log Analysis Screenshot
+
+![Linux Log Analysis](linux-log-analysis.png)
